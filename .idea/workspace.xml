@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5533c96c-6e1a-44a5-9c71-d6704e639b1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recapitulare_Lab_2_PJ.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/judete.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P2/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P3/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P4/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P4/Persoana.java" afterDir="false" />
-    </list>
+    <list default="true" id="5533c96c-6e1a-44a5-9c71-d6704e639b1a" name="Changes" comment="Lab_2_PJ_Bun" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2XTd5bsob05KWxJx4msLSzsN6MW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,6 +41,10 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,7 +63,17 @@
       <option name="presentableId" value="Default" />
       <updated>1698656822257</updated>
       <workItem from="1698656823264" duration="10317000" />
+      <workItem from="1698922303760" duration="297000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab_2_PJ_Bun">
+      <option name="closed" value="true" />
+      <created>1698922525047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698922525047</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab_2_PJ_Bun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab_2_PJ_Bun" />
   </component>
 </project>
